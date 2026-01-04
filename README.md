@@ -30,10 +30,9 @@ http://localhost:8080/h2
 http://localhost:8080/test/get
 
 ## GitHub repository: ##
-### https://github.com/Gabotto/SampleUnitTests ###
+### https://github.com/gabo-gil-playground/SampleUnitTests ###
 ## Contact ##
 Let me know if you have any problem, comment or new ideas:
-#### Wordpress: http://gabelopment.wordpress.com/ ####
-#### Email: gabelopment@gmail.com ####
+#### Wordpress: http://somedevnotes.wordpress.com/ ####
 
 Edited on: 11th June 2017
